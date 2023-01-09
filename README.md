@@ -14,3 +14,6 @@
     git add .commit (az összes állomány és mappa hozzáadása)
 ## 5. Állapotfelvétel (commit) készítése
     git commit -m "commit message"
+## 6. Git állapot és log lekérdezése
+    git log
+    git status
