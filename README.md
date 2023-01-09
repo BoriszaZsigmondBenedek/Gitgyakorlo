@@ -1,7 +1,7 @@
 # Verziókezelés alapjai
 ## 1. Git letöltése
-    [git for windows] (https://gitforwindows.org/)
-    [git scm] (https://git-scm.com/)
+    [git for windows](https://gitforwindows.org/)
+    [git scm](https://git-scm.com/)
 ## 2. Konfigurációs parancsok
     git config  global user.name
 ## 3. Repository létrehozása
