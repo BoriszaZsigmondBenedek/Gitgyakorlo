@@ -21,3 +21,5 @@
     git push
 ## 8. Távoli repository másolása a lokális ropsitoryba
     git clone "távoli repository url címe"
+
+unatkozás
